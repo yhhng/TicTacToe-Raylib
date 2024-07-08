@@ -17,7 +17,9 @@ First, clone the repository to your local machine using Git:
 ```sh
 git clone https://github.com/yhhng/TicTacToe-Raylib.git
 cd TicTacToe-Raylib
-Open a terminal in the project directory.
-Compile the project using your preferred C/C++ compiler. For example, with GCC you can use: gcc -o TicTacToe main.c -lraylib
-After successfully compiling the project, you can run the game with the following command: ./TicTacToe
+## Open a terminal in the project directory.
+## Compile the project using your preferred C/C++ compiler. For example, with GCC you can use: 
+gcc -o TicTacToe main.c -lraylib
+## After successfully compiling the project, you can run the game with the following command: 
+./TicTacToe
 
